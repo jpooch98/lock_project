@@ -1,0 +1,39 @@
+.container{
+    display:inline;
+}
+.center{
+    justify-content: center !important;
+    text-align: center;
+    display: flex;
+}
+
+
+.lock{
+    height: 300px;
+    width: 300px;
+    background-image: url(../images/lock.png);
+    background-repeat: no-repeat;
+    font-size: 20px;
+}
+
+.initials{
+    display: flex;
+    justify-content: center;
+    padding-top: 100px;
+    padding-bottom: 30px;
+}
+
+.initial{
+    padding-left: 50px;
+}
+
+.lockno{
+    padding-top: 20px;
+    justify-content: center;
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+.but{
+    background-color: #DBA507 !important;
+}
